@@ -1,11 +1,11 @@
 # Students Marks Analysis
 
 ## Table of Contents
--[Project Overview](#project-overview)
 
--[Data Sources](#data-sources)
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
 
--[Exploratory Data Analysis](#exploratory-data-analysis)
 
 ### Project Overview
 
